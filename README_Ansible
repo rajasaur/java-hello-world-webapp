@@ -1,0 +1,3 @@
+Run the ansible_playbook command to deploy this file to the target.
+
+ansible-playbook -i <target>, deploy_war.yml --extra="localFile=<file_to_copy>"

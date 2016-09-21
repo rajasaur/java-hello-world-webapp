@@ -1,0 +1,4 @@
+- hosts: all
+  tasks:
+  - name: Copy file to remote
+    copy: src="{{ localFile }}" dest=/var/lib/tomcat7/webapps/
