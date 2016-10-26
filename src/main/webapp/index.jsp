@@ -47,7 +47,7 @@
 
     <h2>Welcome</h2>
     
-      <p>This is a live Java Spring Framework application running on Apache Tomcat (TC) BY Nick Gulrajani deployed through Murano on a box provisioned by Openstack. Please explore the application, and refer to the following resources to learn how to migrate a Spring Framework application to Windows Azure. While the tutorial below focuses on a popular Spring Framework sample application, <a href="http://petclinic.cloudapp.net">the Java PetClinic</a> , the tutorial will introduce you to the Windows Azure Java SDK, Windows Azure Caching using memcached, Windows Azure Cloud Services, Windows Azure SQL Database, and a variety of other technologies that will be used in many other types of Java applications deployed on Windows Azure.</p>
+      <p>This is a live Java Spring Framework application running on Apache Tomcat (TC) BY Nicholas deployed through Murano on a box provisioned by Openstack. Please explore the application, and refer to the following resources to learn how to migrate a Spring Framework application to Windows Azure. While the tutorial below focuses on a popular Spring Framework sample application, <a href="http://petclinic.cloudapp.net">the Java PetClinic</a> , the tutorial will introduce you to the Windows Azure Java SDK, Windows Azure Caching using memcached, Windows Azure Cloud Services, Windows Azure SQL Database, and a variety of other technologies that will be used in many other types of Java applications deployed on Windows Azure.</p>
       
 
        
